@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/JohnBenton4/stickerUnited"> stickerUnited</a>
 
-- 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
+- 🌱 I’m currently learning React, Node, and PostgreSQL
 
-- 👯 I’m looking to collaborate on ["project name"](https://code-blooded-dev.surge.sh)
+- 👯 I’m looking to collaborate on anything involving a fresh idea that helps others
 
-- 🤝 I’m looking for help with ["project name"](https://code-blooded-dev.surge.sh)
+- 🤝 I’m looking for help with 
 
 - 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio)
 
