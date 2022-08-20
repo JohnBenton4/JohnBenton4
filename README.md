@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/JohnBenton4/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnBenton4" alt="JohnBenton4" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JohnBenton4)](https://github.com/JohnBenton4/github-profile-trophy)
+
 - 🔭 I’m currently working on ["project name"](https://code-blooded-dev.surge.sh)
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
