@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/JohnBenton4/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnBenton4" alt="JohnBenton4" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/JohnBenton4/stickerUnited"> alt="stickerUnited"</a>
+- 🔭 I’m currently working on <a href="https://github.com/JohnBenton4/stickerUnited"> "stickerUnited"</a>
 
 - 🌱 I’m currently learning **React, Redux, Node, and PostgreSQL**
 
