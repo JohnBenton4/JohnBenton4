@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+I'm John Benton, a full-stack web-developer student at DigitalCrafts and I'm so glad you dropped by. 
 
 <!--
 **JohnBenton4/JohnBenton4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
