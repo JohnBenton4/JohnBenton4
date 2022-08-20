@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio)
 
-- 📝 I regulary write articles on [Link TO Blog](Link TO Blog)
+- 💬 Ask me about percussion, woodworking, or coding
 
-- 💬 Ask me about **"skills you are confident in"**
-
-- 📫 How to reach me **example@NathansTheBomb.com**
+- 📫 How to reach me jtbentoniv@gmail.com
 
 - 📄 Know about my experiences [Link TO Resume](Link TO Resume)
 
