@@ -1,9 +1,5 @@
-### Hello 👋
-
-I'm John Benton, a full-stack web-developer student at DigitalCrafts and I'm so glad you dropped by. 
-
-<h1 align="center">Hi 👋, I'm "Awesome Builder"</h1>
-<h3 align="center">A passionate Full-Stack developer from "Hometown"</h3>
+<h1 align="center">Hi 👋, I'm "John Benton"</h1>
+<h3 align="center">A thoughtful Full-Stack developer from "Atlanta, GA"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathannosudo&label=Profile%20views&color=0e75b6&style=flat" alt="nathannosudo" /> </p>
 
@@ -30,18 +26,3 @@ I'm John Benton, a full-stack web-developer student at DigitalCrafts and I'm so 
 - 📄 Know about my experiences [Link TO Resume](Link TO Resume)
 
 - ⚡ Fun fact **List some fun facts about yourself!**
-
-<!--
-**JohnBenton4/JohnBenton4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
