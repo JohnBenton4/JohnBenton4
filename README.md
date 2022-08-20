@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm "John Benton"</h1>
-<h3 align="center">A thoughtful Full-Stack developer from "Atlanta, GA"</h3>
+<h1 align="center">Hi 👋, I'm John Benton</h1>
+<h3 align="center">A thoughtful Full-Stack developer from Atlanta, GA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathannosudo" alt="nathannosudo" /></a> </p>
+<p align="left"> <a href="https://github.com/JohnBenton4/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnBenton4" alt="JohnBenton4" /></a> </p>
 
 - 🔭 I’m currently working on ["project name"](https://code-blooded-dev.surge.sh)
 
