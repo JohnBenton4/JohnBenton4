@@ -15,17 +15,18 @@
 
 - 💬 Ask me about percussion, woodworking, or coding
 
-- 📫 How to reach me jtbentoniv@gmail.com
+- 📫 How to reach me: jtbentoniv@gmail.com
 
-- 📄 Know about my experiences [Link TO Resume](Link TO Resume)
+- 📄 Know about my experiences: <a href="https://john-b-portfolio.netlify.app/resume/resume.html"> Resumé.</a>
+- 
 
-- ⚡ Fun fact **List some fun facts about yourself!**
-
+<!-- - ⚡ Fun fact: 
+ -->
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/john-benton/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
-<a href="https://fb.com/facebook username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook username" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram usrname" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram usrname" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtube channel name" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube channel name" height="30" width="40" /></a>
-<a href="/rss feed url" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="rss feed url" height="30" width="40" /></a>
+<a href="https://www.facebook.com/john.benton.587606/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook username" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/instagram usrname" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram usrname" height="30" width="40" /></a> -->
+<a href="https://www.youtube.com/channel/UCWXUIoHNKu2nEYreFEVNc7w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube channel name" height="30" width="40" /></a>
+<a href="https://github.com/JohnBenton4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="rss feed url" height="30" width="40" /></a>
 </p>
