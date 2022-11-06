@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on anything involving a fresh idea that helps others
 
-- 🤝 I’m looking for help with 
-
-- 👨‍💻 All of my projects are available at [Link TO Portfolio](Link TO Portfolio)
+<!-- - 🤝 I’m looking for help with 
+ -->
+- 👨‍💻 All of my best projects are available on my <a href="https://john-b-portfolio.netlify.app/"> Portfolio.</a>
 
 - 💬 Ask me about percussion, woodworking, or coding
 
