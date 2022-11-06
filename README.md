@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/JohnBenton4/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JohnBenton4" alt="JohnBenton4" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/JohnBenton4/stickerUnited"> stickerUnited</a>
+- 🔭 I’m currently working on <a href="https://github.com/JohnBenton4/Introvert-Empowerment"> Introvert Empowerment</a>
 
-- 🌱 I’m currently learning React, Node, and PostgreSQL
+- 🌱 I’m currently learning Java, AWS deployment, and Heroku
 
 - 👯 I’m looking to collaborate on anything involving a fresh idea that helps others
 
